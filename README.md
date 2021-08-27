@@ -1,4 +1,4 @@
-## angular-Study
+## Angular-Study2
 
 ### Estudo do angular com o site cod3r.com.br
 
@@ -7,7 +7,6 @@
  * JavaScript
  * HTML
  * Angular
- * BootStrap
 
  
 
